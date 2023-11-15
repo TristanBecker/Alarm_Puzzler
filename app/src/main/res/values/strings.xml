@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alarm Puzzler</string>
+    <string name="alarms">Alarms</string>
+    <string name="new_alarms">Set New Alarm</string>
+    <string name="submit">Add Alarm</string>
+    <string name="set_time">Set Time</string>
+    <string name="set_message">Set Message</string>
+    <string name="puzzle_type">Puzzle Type</string>
+    <string name="trivia">Trivia</string>
+    <string name="math">Math</string>
+    <string name="math_puzzle">Solve The math puzzle to disable the alarm</string>
+    <string name="Trivia_puzzle">Trivia Puzzle still to be implemented</string>
+    <string name="submitmath">Submit</string>
+</resources>
